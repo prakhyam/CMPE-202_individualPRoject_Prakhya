@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CreditCards>
+  <CreditCard>
+    <cardType>Master</cardType>
+    <cardNumber>5567894523129089</cardNumber>
+    <expirationDate>08/26</expirationDate>
+    <cardHolderName>John DoE</cardHolderName>
+  </CreditCard>
+  <CreditCard>
+    <cardType>Visa</cardType>
+    <cardNumber>4123456789123</cardNumber>
+    <expirationDate>04/26</expirationDate>
+    <cardHolderName>Martha Clark</cardHolderName>
+  </CreditCard>
+  <CreditCard>
+    <cardType>Amex</cardType>
+    <cardNumber>347856341908126</cardNumber>
+    <expirationDate>03/23</expirationDate>
+    <cardHolderName>Jane S. Dayton</cardHolderName>
+  </CreditCard>
+  <CreditCard>
+    <cardType>Discover</cardType>
+    <cardNumber>6011111100007756</cardNumber>
+    <expirationDate>02/24</expirationDate>
+    <cardHolderName>John Doe</cardHolderName>
+  </CreditCard>
+  <CreditCard>
+    <cardType>Master</cardType>
+    <cardNumber>5167894523129089</cardNumber>
+    <expirationDate>08/26</expirationDate>
+    <cardHolderName>John Doe</cardHolderName>
+  </CreditCard>
+  <CreditCard>
+    <cardType>Visa</cardType>
+    <cardNumber>4123456789123999</cardNumber>
+    <expirationDate>03/23</expirationDate>
+    <cardHolderName>Jane Dayton</cardHolderName>
+  </CreditCard>
+  <CreditCard>
+    <cardType>Amex</cardType>
+    <cardNumber>377856341908126</cardNumber>
+    <expirationDate>03/25</expirationDate>
+    <cardHolderName>Martha Clark</cardHolderName>
+  </CreditCard>
+  <CreditCard>
+    <cardType>Master</cardType>
+    <cardNumber>5367894523129089</cardNumber>
+    <expirationDate>08/25</expirationDate>
+    <cardHolderName>John Doe</cardHolderName>
+  </CreditCard>
+  <CreditCard>
+    <cardType>Discover</cardType>
+    <cardNumber>6011*890HJrt6789</cardNumber>
+    <expirationDate>05/25</expirationDate>
+    <cardHolderName>Jill Davis</cardHolderName>
+  </CreditCard>
+</CreditCards>
